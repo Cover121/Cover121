@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">Node.js & Python Developer</h3>
 
 - 🌱 I’m currently learning **Web Development (HTML, CSS, JavaScript)**
 

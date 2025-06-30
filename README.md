@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
 🌱 I’m currently learning Web Development (HTML, CSS, JavaScript)<br>📄 Know about my experiences Developing Discord Bots, automation tools, web utilities, and Python apps<br>💬 Ask me about Anything Node.js & Python related<br>📫 How to reach me cover9519@gmail.com<br>⚡ Fun fact, I start coding random, crazy and fun projects when I am bored
 
 
